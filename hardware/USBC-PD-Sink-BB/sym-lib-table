@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP22301")(type "KiCad")(uri "${KIPRJMOD}/kicad_artifacts/MCP22301/2025-07-28_03-38-08.kicad_sym")(options "")(descr ""))
+  (lib (name "USB421503")(type "KiCad")(uri "${KIPRJMOD}/kicad_artifacts/USB421503/USB4215-03-A_REVA.kicad_sym")(options "")(descr ""))
+)
