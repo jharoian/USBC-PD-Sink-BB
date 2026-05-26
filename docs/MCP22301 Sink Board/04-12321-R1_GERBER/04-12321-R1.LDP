@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\ALTIUM_WORK\EV71V36A\01_Design_Files\Hardware\trunk\PCB\04-12321.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=04-12321-r1-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=04-12321-r1-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl

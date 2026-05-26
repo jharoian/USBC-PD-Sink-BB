@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 04-12321.PcbDoc   1/29/2025  3:35:51 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 04-12321-R1-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : 04-12321-R1-SlotHoles-Plated.TXT
+EIA File   : 04-12321-R1.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             101       PTH        263.21mm (10.36inch)
+T2      0.4mm (16mil)                                             Round             15        PTH        21.85mm (0.86inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        38.42mm (1.51inch)
+T4      0.9mm (35mil)                                             Round             18        PTH        63.18mm (2.49inch)
+T5      1mm (39mil)                                               Round             8         PTH        22.86mm (0.90inch)
+T6      1.6mm (63mil)                                             Round             2         PTH        5.08mm (0.20inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              148
+
+Total Processing Time (hh:mm:ss) : 00:00:00
